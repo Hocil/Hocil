@@ -6,7 +6,10 @@
 
 ### 기술 스택
 - **Backend:** Java, Spring Boot, MyBatis  
-- **Frontend:** React, HTML/CSS, JavaScript
+- **Frontend:**   <a href="">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white"/>
+  </a>
+</span> , HTML/CSS, JavaScript
 - **DevOps:** Docker, Jenkins, Kubernetes, <span>
   <a href="">
     <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonwebservices&logoColor=white"/>
