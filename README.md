@@ -17,7 +17,7 @@
 
 ### 주요 프로젝트
 - [HealthPlan 프로젝트](https://github.com/CHOI-AHRIN/HealthPlan)  
-  설명: 건강관리 앱 개발 프로젝트로 Spring Boot와 React를 사용해 백엔드와 프론트엔드를 구성했습니다.
+  건강관리 앱 개발 프로젝트로 Spring Boot와 React를 사용해 백엔드와 프론트엔드를 구성했습니다.
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-**더 많은 프로젝트와 활동은 [제 깃허브](https://github.com/Hocil)를 참고해주세요! 😊**
+**더 많은 프로젝트와 활동은 [제 깃허브](https://github.com/Hocil)를 참고 바랍니다.**
 
 <span>
   <a href="https://www.instagram.com/ho_cil/">
