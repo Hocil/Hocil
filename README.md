@@ -38,7 +38,7 @@
 
 ---
 
-**더 많은 프로젝트와 활동은 [GitHub Repository]([https://github.com/Hocil](https://github.com/Hocil?tab=repositories))를 참고 바랍니다.**
+**더 많은 프로젝트와 활동은 [GitHub Repository](https://github.com/Hocil?tab=repositories)를 참고 바랍니다.**
 
 <span>
   <a href="https://www.instagram.com/ho_cil/">
