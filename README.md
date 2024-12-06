@@ -5,19 +5,6 @@
 ---
 
 ### 기술 스택
-- **Backend:** Java, Spring Boot, MyBatis  
-- **Frontend:**   <a href="">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white"/>
-  </a>
-</span> , HTML/CSS, JavaScript
-- **DevOps:** Docker, Jenkins, Kubernetes, <span>
-  <a href="">
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonwebservices&logoColor=white"/>
-  </a>
-</span>  
-
-
-### 기술 스택
 - **Backend:**  
   <a href="">
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/>
@@ -62,6 +49,8 @@
 ### 주요 프로젝트
 - [HealthPlan Backend](https://github.com/CHOI-AHRIN/HealthPlan)
 - [HealthPlan FrontEnd](https://github.com/CHOI-AHRIN/HealthPlan_front)
+- [시연영상](https://www.youtube.com/watch?v=8H7hkPAbook)
+
 
   건강관리 앱 개발 프로젝트로 Spring Boot와 React를 사용해 백엔드와 프론트엔드를 구성했습니다.
 
