@@ -21,11 +21,14 @@
 ### 주요 프로젝트
 - [HealthPlan Backend](https://github.com/CHOI-AHRIN/HealthPlan)
 - [HealthPlan FrontEnd](https://github.com/CHOI-AHRIN/HealthPlan_front)
+
   건강관리 앱 개발 프로젝트로 Spring Boot와 React를 사용해 백엔드와 프론트엔드를 구성했습니다.
 
 ### 후속진행 (HealthPlan ver.2)
 - [HealthPlan_v2 Backend](https://github.com/CHOI-AHRIN/HealthPlan_v2)
-- [HealthPlan_v2 FrontEnd]([https://github.com/CHOI-AHRIN/HealthPlan_front](https://github.com/CHOI-AHRIN/HealthPlan_front_v2))
+- [HealthPlan_v2 FrontEnd]([https://github.com/CHOI-AHRIN/HealthPlan_front](https://github.com/CHOI-AHRIN/HealthPlan_front_v2)
+
+
   이후 HealthPlan 프로젝트를 피드백을 반영한 ver.2를 개발 중 입니다. (2024. 12. 09 ~ 2024. 12. 31)
 
 ---
