@@ -16,6 +16,47 @@
   </a>
 </span>  
 
+
+### 기술 스택
+- **Backend:**  
+  <a href="">
+    <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/>
+  </a>  
+  <a href="">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"/>
+  </a>  
+  <a href="">
+    <img src="https://img.shields.io/badge/MyBatis-000000?style=plastic&logo=mybatis&logoColor=white"/>
+  </a>
+
+- **Frontend:**  
+  <a href="">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white"/>
+  </a>  
+  <a href="">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/>
+  </a>  
+  <a href="">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white"/>
+  </a>  
+  <a href="">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
+  </a>
+
+- **DevOps:**  
+  <a href="">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
+  </a>  
+  <a href="">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white"/>
+  </a>  
+  <a href="">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white"/>
+  </a>  
+  <a href="">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonwebservices&logoColor=white"/>
+  </a>
+
 ---
 
 ### 주요 프로젝트
