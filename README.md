@@ -58,7 +58,7 @@
 - [HealthPlan_v2 Backend](https://github.com/CHOI-AHRIN/HealthPlan_v2)
 - [HealthPlan_v2 FrontEnd](https://github.com/CHOI-AHRIN/HealthPlan_front_v2)
 
-  이후 HealthPlan 프로젝트를 피드백을 반영한 ver.2를 개발 중 입니다. (2024. 12. 09 ~ 2024. 12. 31)
+  이후 HealthPlan 프로젝트를 피드백을 반영한 ver.2를 개발 중 입니다.
 
 ---
 
