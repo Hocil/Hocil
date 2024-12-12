@@ -69,12 +69,14 @@
 
 **더 많은 프로젝트와 활동은 [GitHub Repository](https://github.com/Hocil?tab=repositories)를 참고 바랍니다.**
 
+<!--
 <span>
   <a href="https://www.instagram.com/ho_cil/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
+--!>
 <!--
-**Hocil/Hocil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+**Hocil/Hocil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  --!>
 
 
