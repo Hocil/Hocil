@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 데이터 분석가로 성장 중인 **호성(Hocil)** 입니다.
+## 👋 안녕하세요, 데이터 분석가로 성장 중인 **Ho-Seong (Hocil)** 입니다.
 
 > 데이터를 통해 문제를 정의하고, 인사이트를 도출하며, 더 나은 의사결정을 이끌어내는 과정을 좋아합니다.  
 > 이 공간은 제가 **데이터 분석가로 성장하기 위해 배우고, 실험하고, 기록한 모든 과정**을 담고 있습니다.
@@ -47,7 +47,7 @@
 - 🎓 **제로베이스 데이터 분석가 과정** (2024.04 ~ 2025.09)
 - 🧩 SQLD 자격증 취득 (2025.09)
 - 📈 ADsP / 데이터 분석기사 예정
-- 🐍 Python, Pandas, NumPy, Matplotlib, Scikit-learn, Streamlit 등 실습 중심 학습
+- 🐍 Python, Pandas, NumPy, Matplotlib, Scikit-learn, Streamlit 등 실습 중심 학습진행
 - 📚 노션과 깃허브를 활용한 **체계적인 기록형 학습 진행 중**
 
 ---
@@ -55,7 +55,7 @@
 ## 🧠 Tech Stack
 
 **Language & Tools**  
-`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `Streamlit` · `SQL` · `Git`  
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `SQL` · `Git`  
 
 **Data Visualization / BI**  
 `Tableau` · `Streamlit` · `Power BI` · `Plotly` 
@@ -68,13 +68,13 @@
 ## 📬 Contact
 
 - GitHub: [@Hocil](https://github.com/Hocil)
-- Email: [작성 예정 or 비공개]
+- Email: ghtjd7933@naver.com
 - Notion Blog: [정리 중입니다 ✍️]
 
 ---
 
 > “Data never lies, but it needs someone who listens carefully.”  
-> — 제 데이터 여정은 아직 진행 중입니다. 👣
+> — 제 데이터 여정은 진행 중입니다. 👣
 ---
 
 **더 많은 프로젝트와 활동은 [GitHub Repository](https://github.com/Hocil?tab=repositories)를 참고 바랍니다.**
